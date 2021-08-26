@@ -1,0 +1,13 @@
+{
+  "name": "bitcoin-api-server",
+  "version": "1.0.0",
+  "description": "An api server for bitcoin",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Anand George",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
